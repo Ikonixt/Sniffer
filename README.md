@@ -1,5 +1,5 @@
 # ARP spoof
-for spoofing ARP packets, works on LINUX\
+for spoofing ARP requests to enable MITM attacks, works on LINUX\
 \
 Dependencies:\
 sudo pip3 install scapy
