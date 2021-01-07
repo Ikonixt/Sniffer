@@ -7,7 +7,7 @@ How it works:\
 Periodically sends out falsified ARP packets to manipulate the mac-address and the default gateway of the targeted host then routes them through the user's machine\
 \
 WARNING:\
-Enable IP forwarding so the script won't pwn the targets' internet access\
+Enable IP forwarding so the script won't pwn the target's internet access\
 \
 Dependencies:\
 sudo pip3 install scapy
