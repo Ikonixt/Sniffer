@@ -4,7 +4,7 @@ Goal: Network packet manipulation\
 \
 \
 How it works:\
-Periodically sends out falsified ARP packet to manipulate the mac-address of the target host and the default gateway and routes them through the machine\
+Periodically sends out falsified ARP packets to manipulate the mac-address and the default gateway of the targeted host then routes them through the user's machine\
 \
 WARNING:\
 Enable IP forwarding so the script won't pwn the targets' internet access\
